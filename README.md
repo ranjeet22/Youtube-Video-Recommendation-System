@@ -1,8 +1,11 @@
 <div align="center">
 
-# ▶ YouTube Video Recommendation System
+# YouTube Video Recommendation System
 
-### Search less. Discover more.
+| | |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/59549cf3-57cb-4817-a431-7256ea322d8f" width="100%" alt="Image 1" /> | <img src="https://github.com/user-attachments/assets/6756f635-b2b6-48f6-b847-7a50b4afa199" width="100%" alt="Image 2" /> |
+| <img src="https://github.com/user-attachments/assets/f2356e4a-2a64-41d9-8a54-2163723c2d07" width="100%" alt="Image 3" /> | <img src="https://github.com/user-attachments/assets/2dfb3ebe-ba9d-4c08-ac63-4aed90350ef3" width="100%" alt="Image 4" /> |
 
 A full-stack, content-based YouTube video discovery app that lets you search for videos, select one, and explore similar recommendations through a clean web interface.
 
